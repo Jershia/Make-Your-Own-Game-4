@@ -1,0 +1,12 @@
+Storyline : Collect more coins
+
+Characters : PC - Tanks of the players
+             NPC - The coins,blocks
+
+Goal : Score the highest score and collect more coins
+
+Rules : Can attack other players,collect coins,press arrow keys to move
+
+Adaptivity : Sounds are added when coins are collected and attacked by players
+
+Feedback : Display score and alerts player by adding sounds.
